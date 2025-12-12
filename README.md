@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @seenu30<br>👀 I’m interested in 'Bringing Ideas to Life.'<br>🌱 I’m currently learning Full Stack Deployment<br>💞️ I’m looking to collaborate on any crazy idea you've got<br>📫 How to reach me - srinivas.reddy.abbavaram@gmail.com<br>⚡ Fun fact: No tech stack is absolute; change is inevitable!
+👋 Hi, I’m @seenu30<br>👀 I’m interested in 'Bringing Ideas to Life.'<br>🌱 I’m currently learning Full Stack Deployment<br>💞️ I’m looking to collaborate on any crazy idea you've got<br>⚡ Fun fact: No tech stack is absolute; change is inevitable!
 
 
 ## 🌐 Socials:
