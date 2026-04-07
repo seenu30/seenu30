@@ -19,10 +19,7 @@
 </picture>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seenu30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=seenu30&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-trophies.vercel.app/?username=seenu30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=seenu30&icon=0&color=0)](https://visitcount.itsvg.in)
